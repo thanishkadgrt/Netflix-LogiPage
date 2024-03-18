@@ -1,0 +1,125 @@
+body{
+    background: rgba(0,0,0,0.2) url("https://images.ctfassets.net/7so8go2zrvbw/2cPBaJIBwmXKiPFmORaRlw/1288322d48e889c11a40b615899230ee/0af6ce3e-b27a-4722-a5f0-e32af4df3045_what_is_netflix_5_en.png?w=1200&h=675&q=90&fm=jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: darken;
+}
+.img{
+    height: 60px;
+    width: 200px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.main{
+    background: rgba(15, 14, 14, 0.75);
+    height: 650px;
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-top: 100px;
+}
+.hd1{
+    color: rgb(130, 134, 137);
+}
+
+.SignIn{
+    margin-left: 75px;
+    color: aliceblue;
+    padding-top:  40px;
+    font-family: 'Arial', Courier, monospace;
+}
+
+.mb{
+    background: rgba(22, 22, 22, 0);
+    height: 49px;
+    width: 300px;
+    margin-left: 75px;
+    margin-top: 10px;
+    border: 1px solid rgb(82, 79, 79);
+    border-radius: 4px;
+    font-family: 'Arial', Courier, monospace;
+}
+
+.ps{
+    background: rgba(22, 22, 22, 0);
+    height: 49px;
+    width: 300px;
+    margin-left: 75px;
+    margin-top: 15px;
+    border: 1px solid rgb(82, 79, 79);
+    border-radius: 4px;
+}
+
+.SignUp{
+    background: rgba(249, 21, 21, 0.9);
+    height: 43px;
+    width: 307px;
+    margin-left: 75px;
+    margin-top: 15px;
+    border: 1px solid rgb(82, 79, 79);
+    border-radius: 4px;
+    color: aliceblue;
+    font-family: 'Calibri', Courier, monospace;
+    font-size: medium;
+    font-weight: 700;
+}
+
+.OR{
+    color: rgb(154, 150, 150);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: medium;
+    font-weight: 400;
+    margin-left: 220px;
+}
+.SignInCode{
+    background: rgba(33, 33, 33, 0);
+    height: 43px;
+    width: 307px;
+    margin-left: 75px;
+    margin-top: 7px;
+    border: 1px solid rgb(82, 79, 79);
+    border-radius: 4px;
+    color: aliceblue;
+    font-family: 'Calibri', Courier, monospace;
+    font-size: medium;
+    font-weight: 700;
+}
+.Forgot{
+    color: aliceblue;
+    font-family: 'Calibri', Courier, monospace;
+    font-size: 16px;
+    font-weight: 500;
+    margin-left: 170px;
+}
+.R1{
+    display: flex;
+
+}
+.P1{
+    color: aliceblue;
+    font-family: 'Calibri', Courier, monospace;
+    font-size: medium;
+    font-weight: 500;
+    margin-left: 7px;
+}
+.RemMe{
+    margin-left: 75px;
+    width: 15px;
+}
+.R2{
+    display: flex;
+    margin-left: 67px;
+}
+.P2{
+    color: rgb(179, 180, 181);
+    font-family: 'Calibri', Courier, monospace;
+    font-size: 16px;
+    font-weight: 500;
+    margin-left: 7px;
+}
+.P3{
+    color: rgb(244, 246, 248);
+    font-family: 'Calibri', Courier, monospace;
+    font-size: 16px;
+    font-weight: 500;
+    margin-left: 7px;
+}
